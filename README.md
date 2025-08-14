@@ -1,6 +1,6 @@
-# MyReactNativeApp
+# City Events
 
-A **large-scale React Native app** with the following features:
+A **City Events React Native app** with the following features:
 
 - RTL & LTR support (Arabic/English)
 - Splash screen with locale/theme initialization
