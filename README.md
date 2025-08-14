@@ -23,14 +23,16 @@ A **large-scale React Native app** with the following features:
 
 ## **Screenshot**
 
-![Splash](screenshots/splash.gif)
-![Login](screenshots/login.png)
-![Splash Arabic](screenshots/splash_arabic.gif)
-![Login Arabic](screenshots/login_arabic.gif)
-![Signup](screenshots/signup.gif)
-![Home](screenshots/home.gif)
-![Details](screenshots/details.gif)
-![Profile](screenshots/profile.gif)
+<p>
+  <img src="screenshots/splash.png" alt="Splash" width="200"/>
+  <img src="screenshots/login.png" alt="Login" width="200"/>
+  <img src="screenshots/splash_arabic.png" alt="Splash Arabic" width="200"/>
+  <img src="screenshots/login_arabic.png" alt="Login Arabic" width="200"/>
+  <img src="screenshots/signup.png" alt="SignUp" width="200"/>
+  <img src="screenshots/home.png" alt="Home" width="200"/>
+  <img src="screenshots/details.png" alt="Detail" width="200"/>
+  <img src="screenshots/profile.png" alt="Profile" width="200"/>
+</p>
 
 ## **Installation**
 
