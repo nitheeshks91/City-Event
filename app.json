@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "CityEvents",
+    "slug": "CityEvents",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "cityevents",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.CityEvents"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/logo.png",
+        "backgroundColor": "#0B0F17"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.CityEvents"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-font"
+    ],
+    "splash": {
+      "image": "./assets/images/logo.png", 
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0F17" 
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
