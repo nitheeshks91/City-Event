@@ -38,13 +38,11 @@ A **City Events React Native app** with the following features:
 
 ```bash
 # Clone the repo
-git clone https://github.com/username/MyReactNativeApp.git
-cd MyReactNativeApp
+git clone https://github.com/nitheeshks91/City-Event.git
+cd City-Event
 
 # Install dependencies
 npm install
-# or
-yarn install
 
 # Run on android
 npx expo run:android
