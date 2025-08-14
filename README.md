@@ -55,7 +55,6 @@ npx expo run:ios
 ## **Features**
 
 - RTL/LTR support
-- Dark/light theme toggle
 - Biometric login (Touch ID / Face ID)
 - API client with Axios (supports API key & token)
 - Persistent secure storage
